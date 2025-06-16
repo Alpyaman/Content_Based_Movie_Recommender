@@ -15,7 +15,7 @@ A Streamlit web app that recommends movies based on content similarity, using fe
 
 ```bash
 git clone https://github.com/Alpyaman/Content_Based_Movie_Recommender.git
-cd movie-recommender
+cd Content_Based_Movie_Recommender
 ```
 
 2. Create and activate a virtual environment:
