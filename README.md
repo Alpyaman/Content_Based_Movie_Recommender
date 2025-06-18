@@ -1,5 +1,7 @@
 # Content-Based Movie Recommender
 
+![Movie Recommender Thumbnail](movie_recommender_thumbnail.png)
+
 A Streamlit web app that recommends movies based on content similarity, using features like genres, release year, and title text (TF-IDF).
 
 ## Features
